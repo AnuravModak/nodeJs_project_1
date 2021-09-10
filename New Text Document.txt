@@ -1,0 +1,3 @@
+about the applications:
+data is present in data.json
+running command: node index.js
